@@ -1,4 +1,3 @@
-
 var sortTpl=require("../tpls/sort.string");
 SPA.defineView("sort",{
 	//装载sort视图
