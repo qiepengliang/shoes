@@ -12,7 +12,9 @@ SPA.defineView("sort",{
 	//绑定视图事件
 	bindEvents:{
 		"show":function(){
-			//相应事件
+			$(".paixu li").on("tap",function(){
+				$(this).addClass("active").siblings().removeClass("active");
+			});
 		}
 	}
 })
