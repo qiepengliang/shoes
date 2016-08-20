@@ -1,0 +1,78 @@
+<div class="detail-container">
+  <header>
+    <i class="yo-ico">&#xe604;</i>
+    <b>商品详情</b>
+    <i class="yo-ico">&#xe643;</i>
+    <i class="yo-ico">&#xe678;</i>
+  </header>
+<section spa-widget="scroll">
+  <div class="detil-iscroll">
+    <div class="lunbo">
+      <div class="swiper-container" id="detail-swiper">
+        <div class="swiper-wrapper">
+          <div class="swiper-slide"><img src="./images/detail_1.jpg" alt=""></div>
+          <div class="swiper-slide">slider2</div>
+          <div class="swiper-slide">slider3</div>
+        </div>
+      </div>
+    </div>
+
+    <ul class="detail-text">
+      <li>袁姗姗小辣椒同款真皮松糕厚底休闲运动鞋</li>
+      <li >
+        <b>￥200.00</b>
+        <small>￥310.00</small>
+        <i>手机专项</i>
+      </li>
+      <li>
+        <span>销量<em>0</em></span>
+        <span><i></i>7天无理由退货</span>
+        <span><i></i>包邮</span>
+      </li>
+    </ul>
+
+    <div class="detail-img">
+      <img src="./images/detail_banner.jpg" alt="减免的图片">
+    </div>
+
+    <div class="detial-chart">
+      <p class="active">图文详情</p>
+    </div>
+    <div class="detail-main">
+      <li><img src="./images/detail_1.jpg" alt=""></li>
+      <li><img src="./images/detail_2.jpg" alt=""></li>
+      <li><img src="./images/detail_3.jpg" alt=""></li>
+      <li><img src="./images/detail_4.jpg" alt=""></li>
+      <li><img src="./images/detail_5.jpg" alt=""></li>
+      <li><img src="./images/detail_4.jpg" alt=""></li>
+      <li><img src="./images/detail_3.jpg" alt=""></li>
+      <li><img src="./images/detail_2.jpg" alt=""></li>
+      <li><img src="./images/detail_1.jpg" alt=""></li>
+      <li><img src="./images/detail_5.jpg" alt=""></li>
+    </div>
+
+  </div>
+
+
+</section>
+  <footer>
+    <ul>
+      <li>
+        <i class="yo-ico">&#xe625;</i><b>店铺</b>
+      </li>
+      <li>
+        <i class="yo-ico">&#xe603;</i><b>分享</b>
+      </li>
+      <li>
+        <i class="yo-ico">&#xe600;</i><b>关注</b>
+      </li>
+      <p class="detial-btn">
+        加入购物车
+      </p>
+      <p class="detial-btn detial-buy">
+        立即购买
+      </p>
+    </em>
+  </footer>
+
+</div>

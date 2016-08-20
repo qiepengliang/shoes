@@ -6,6 +6,6 @@ require('./libs/swiper-3.3.1.min.js');
 require('./views/index.js');
 require('./views/home.js');
 require('./views/sort.js');
-// require('./views/detail.js');
+require('./views/detail.js');
 require('./views/shop.js');
 require('./views/my.js');

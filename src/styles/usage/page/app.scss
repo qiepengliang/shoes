@@ -1,6 +1,7 @@
 @charset "UTF-8";
 @import "../core/reset";
 @import "../layout/m-layout";
+@import "../core/swiper-3.3.1.min.css";
 
 //引入common.scss 把字体图标公共的样式写在common里面
 //包括字体图标和自定义的颜色变量 混合宏函数等
@@ -8,3 +9,4 @@
 @import "../core/common";
 @import "../module/m-index";
 @import "../module/m-my";
+@import "../module/m-detail";
