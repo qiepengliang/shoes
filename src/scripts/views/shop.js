@@ -14,6 +14,22 @@ SPA.defineView("shop",{
 	bindEvents:{
 		"show":function(){
 			//相应事件
+			//特效
+			// $(".shop-edit").on('tap',function(){
+			// 	console.log(1);
+			// 	$(this).html('编辑');
+			// })
+			$("header .aa").on('tap',function () {
+				$(this).html('编辑');
+				// console.log(1);
+			})
+		}
+	},
+	bindActions:{
+		"switch":function(el,data){
+			this.modules.content.launch(data.name);
 		}
 	}
+
+
 })

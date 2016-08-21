@@ -1,1 +1,15 @@
-<div>shop</div>
+<div class="shop-container">
+    <header>
+        <span>购物车</span>
+        <i class="aa">完成</i>
+    </header>
+    <section>
+        <div class="shop-main">
+            <h3 class="yo-ico">&#xe604;</h3>
+            <p>购物车还是空的哦，快去选购吧</p>
+            <li><i class="gosort" action-type='switch' data-name='home'>去逛逛</i></li>
+
+        </div>
+    </section>
+
+</div>
