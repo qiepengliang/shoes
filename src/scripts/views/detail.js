@@ -13,16 +13,15 @@ SPA.defineView("detail",{
 	boindEvents:{
 		"show":function(){
 			//相应事件
-
 		}
 	}
+
 })
 
-
-var mySwiper=new Swiper('#detail-swiper',{
-  autoplay:2000
+var mySwiper=new Swiper('.detail-container',{
+	autoplay:2000,
+	pagination: '.swiper-pagination'
 })
-
-$('.detail-container').on('tap',function(){
+$("#detail-swiper").on('tap',function(){
 	console.log(1);
-});
+})

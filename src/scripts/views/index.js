@@ -8,7 +8,7 @@ SPA.defineView("index",{
 	modules:[{
 		name:"content",
 		container:"#m-container",
-		views:["home","sort","shop","my","details"],
+		views:["home","sort","shop","my",'detail'],
 		defaultTag:"shop"
 	}],
 	//绑定tap事件

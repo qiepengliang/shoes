@@ -5,17 +5,17 @@
     <i class="yo-ico">&#xe643;</i>
     <i class="yo-ico">&#xe678;</i>
   </header>
+
 <section spa-widget="scroll">
   <div class="detil-iscroll">
-    <div class="lunbo">
-      <div class="swiper-container" id="detail-swiper">
+      <div class="swiper-container lunbo" id="detail-swiper">
         <div class="swiper-wrapper">
           <div class="swiper-slide"><img src="./images/detail_1.jpg" alt=""></div>
-          <div class="swiper-slide">slider2</div>
-          <div class="swiper-slide">slider3</div>
+          <div class="swiper-slide"><img src="./images/detail_2.jpg" alt=""></div>
+          <div class="swiper-slide"><img src="./images/detail_3.jpg" alt=""></div>
         </div>
+         <div class="swiper-pagination"></div>
       </div>
-    </div>
 
     <ul class="detail-text">
       <li>袁姗姗小辣椒同款真皮松糕厚底休闲运动鞋</li>
