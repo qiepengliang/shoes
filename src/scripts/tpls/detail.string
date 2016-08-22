@@ -8,11 +8,11 @@
 
 <section spa-widget="scroll">
   <div class="detil-iscroll">
-      <div class="swiper-container lunbo" id="detail-swiper">
+      <div class="swiper-container lunbo" id="myswiper1">
         <div class="swiper-wrapper">
           <div class="swiper-slide"><img src="./images/detail_1.jpg" alt=""></div>
           <div class="swiper-slide"><img src="./images/detail_2.jpg" alt=""></div>
-          <div class="swiper-slide"><img src="./images/detail_3.jpg" alt=""></div>
+          <div class="swiper-slide"><img src="./images/detail_1.jpg" alt=""></div>
         </div>
          <div class="swiper-pagination"></div>
       </div>
