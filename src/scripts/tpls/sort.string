@@ -1,1 +1,24 @@
-<div>这是sort</div>
+<div class="sort-con">
+	<header>
+		<i class="yo-ico back">&#xf07d;</i>
+		<div class="search">
+			<input type="text" placeholder="搜索商品" />
+			<i class="yo-ico">&#xf067;</i>
+		</div>
+		<span>筛选</span>
+	</header>
+	<ul class="paixu">
+		<li class="active">人气 ↓</li>
+		<li>上新 ↓</li>
+		<li>价格 ↑</li>
+	</ul>
+	<div class="good_list" spa-widget="scroll">
+		<ul>
+			<li ms-repeat-el="livelist">
+				<img ms-src="el.imgsrc" alt=""/>
+				<p ms-text="el.detail"></p>
+				<p ms-text="el.price"></p>
+			</li>
+		</ul>
+	</div>
+</div>

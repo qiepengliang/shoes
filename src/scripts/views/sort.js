@@ -1,4 +1,3 @@
-
 var sortTpl=require("../tpls/sort.string");
 SPA.defineView("sort",{
 	//装载sort视图
@@ -13,7 +12,18 @@ SPA.defineView("sort",{
 	//绑定视图事件
 	bindEvents:{
 		"show":function(){
-			//相应事件
+			var vm=this.getVM();
+			$.ajax({
+				type:"get",
+				url:"/shoes/mock/livelist.json",
+				data:{},
+				success:function(res){
+					vm.livelist=res;
+				}
+			});
+			$(".paixu li").on("tap",function(){
+				$(this).addClass("active").siblings().removeClass("active");
+			});
 		}
 	}
 })

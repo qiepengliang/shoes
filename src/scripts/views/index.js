@@ -15,6 +15,7 @@ SPA.defineView("index",{
 	bindActions:{
 		"switch":function(el,data){
 			this.modules.content.launch(data.name);
+			$(el.el).addClass("active").siblings().removeClass("active");
 		}
 	}
 });
