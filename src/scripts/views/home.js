@@ -3,16 +3,15 @@ SPA.defineView("home",{
 	//装载home视图
 	html:homeTpl,
 	//定义插件
-	plugins:[{
-		name:"avalon",
-		options:function(vm){
-			vm.livelist=[];
-		}
-	}],
+
 	//绑定视图事件
-	boindEvents:{
-		"show":function(){
+	bindEvents:{
+		'show':function(){
+			console.log(111);
 			//相应事件
+			var mySwiper = new Swiper('#home-swiper',{
+				autoplay:1000
+			});
 		}
 	}
 })

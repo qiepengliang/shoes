@@ -1,1 +1,82 @@
-<div>这是home</div>
+<div class="homebox">
+  <header>
+    <i class="yo-ico sousuo">&#xf002d;</i>
+    <ul>
+      <li>10足</li>
+      <li>10zu.com</li>
+    </ul>
+    <i class="yo-ico erweima">&#xe647;</i>
+  </header>
+  <div class="homescroll" spa-widget="scroll">
+    <div>
+      <div id="home-swiper" class="swiper-container">
+        <div class="swiper-wrapper">
+          <div class="swiper-slide"><img src="http://s3.10zu.com/922900f96a5ce99cae36899565f6d41f.jpg"/></div>
+          <div class="swiper-slide"><img src="http://s3.10zu.com/0f79e827dc9801c507f1a376c7300c0b.jpg"/></div>
+          <div class="swiper-slide"><img src="http://s3.10zu.com/f50d0de0b2eecbff2637350c223e84e5.jpg"/></div>
+        </div>
+      </div>
+      <div class="temp4">
+        <div class="four">
+          <img src="//s3.cn-north-1.amazonaws.com.cn/res.10zu.com/assets/image/mobile-index/temp4/mark1.png" alt="" />
+          <p>女鞋</p>
+        </div>
+        <div class="four">
+          <img src="//s3.cn-north-1.amazonaws.com.cn/res.10zu.com/assets/image/mobile-index/temp4/mark2.png" alt="" />
+          <p>男鞋</p>
+        </div>
+        <div class="four">
+          <img src="//s3.cn-north-1.amazonaws.com.cn/res.10zu.com/assets/image/mobile-index/temp4/mark3.png" alt="" />
+          <p>运动鞋</p>
+        </div>
+        <div class="four">
+          <img src="//s3.cn-north-1.amazonaws.com.cn/res.10zu.com/assets/image/mobile-index/temp4/mark4.png" alt="" />
+          <p>休闲鞋</p>
+        </div>
+      </div>
+      <div class="zhekou">
+        <img src="http://s3.10zu.com/0f79e827dc9801c507f1a376c7300c0b.jpg" alt="" />
+      </div>
+      <div class="main">
+        <h4>本季热门</h4>
+        <div class="hot">
+          <div class="left">
+            <div class="img">
+              <img src="//s3.cn-north-1.amazonaws.com.cn/res.10zu.com/assets/image/mobile-index/temp4/l_2.png">
+            </div>
+          </div>
+          <div class="right">
+            <div class="r1">
+              <h3>民族风</h3>
+              <p>平底手工绣</p>
+              <div class="img1">
+                <img src="//s3.cn-north-1.amazonaws.com.cn/res.10zu.com/assets/image/mobile-index/temp4/5.png" alt="" />
+              </div>
+            </div>
+            <div class="r1">
+              <h3>王菲同款</h3>
+              <p>低帮帆布清凉</p>
+              <div class="img1">
+                <img src="//s3.cn-north-1.amazonaws.com.cn/res.10zu.com/assets/image/mobile-index/temp4/5.png" alt="" />
+              </div>
+            </div>
+            <div class="r1">
+              <h3>拼色系</h3>
+              <p>平底手工绣</p>
+              <div class="img1">
+                <img src="//s3.cn-north-1.amazonaws.com.cn/res.10zu.com/assets/image/mobile-index/temp4/5.png" alt="" />
+              </div>
+            </div>
+            <div class="r1">
+              <h3>真皮控</h3>
+              <p>平底手工绣花</p>
+              <div class="img1">
+                <img src="//s3.cn-north-1.amazonaws.com.cn/res.10zu.com/assets/image/mobile-index/temp4/5.png" alt="" />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
