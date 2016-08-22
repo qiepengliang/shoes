@@ -12,7 +12,7 @@
     height: .44rem;
     ul{
       @include flexbox();
-      @include border(1px 0 0 0 ,#dfdfdf);
+      @include border(1px 0 0 0 ,#aaa);
       background: #ECEEF0;
       li{
         @include flex();
@@ -37,7 +37,7 @@
         &.hi i{
           z-index: 9999;
           position: absolute;;
-          @include border(1px,#dfdfdf,solid,50%);
+          @include border(1px,#aaa,solid,50%);
           font-size: .36rem;
           top:-0.08rem;
           width: .52rem;
