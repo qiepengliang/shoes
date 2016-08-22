@@ -9,7 +9,7 @@ SPA.defineView("index",{
 		name:"content",
 		container:"#m-container",
 		views:["home","sort","shop","my",'detail'],
-		defaultTag:"shop"
+		defaultTag:"home"
 	}],
 	//绑定tap事件
 	bindActions:{
