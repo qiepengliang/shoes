@@ -10,6 +10,7 @@ $base-color2:#FBB205;
 }
 @font-face {
   font-family: yofont;
+
   src: url("/shoes/images/iconfont/iconfont-detail.woff") format("woff"),
   url("/shoes/images/iconfont/iconfont-detail.ttf") format("truetype");
 }
@@ -28,4 +29,11 @@ $base-color2:#FBB205;
   font-family: yofont;
   src: url("/shoes/images/iconfont/iconfont-fanhui.woff") format("woff"),
   url("/shoes/images/iconfont/iconfont-fanhui.ttf") format("truetype");
+
+  src: url("/shoes/images/iconfont/iconfont.woff") format("woff"),
+  url("/shoes/images/iconfont/iconfont.ttf") format("truetype");
 }
+@font-face {
+  font-family: yofont;
+  src: url("/shoes/images/iconfont/iconfont1.woff") format("woff"),
+  url("/shoes/images/iconfont/iconfont1.ttf") format("truetype");
