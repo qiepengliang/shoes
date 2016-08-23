@@ -1,0 +1,83 @@
+<div class="qplSort-container">
+  <section>
+  <header  >
+    <div class="header-con">
+      <input type="text"  value="" placeholder="搜索商品">
+      <i class="yo-ico">&#xf067;</i>
+    </div>
+  </header>
+  <!-- nav -->
+  <div class="qpls-title">
+    <ul>
+      <li class="active">女鞋</li>
+      <li>男鞋</li>
+      <li>运动鞋</li>
+      <li>二次元</li>
+    </ul>
+  </div>
+    <!-- swiper -->
+    <div class="swiper-container qplsort" id="qpl-sortC">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide">
+              <div class="women-shoes">
+                <li action-type='goto.detail'>
+                  <img src="/shoes/images/qplsort/1.jpg" alt="" action-type='goto.detail'>
+                  <img src="/shoes/images/qplsort/2.jpg" alt="">
+                  <img src="/shoes/images/qplsort/3.jpg" alt="">
+                  <img src="/shoes/images/qplsort/4.jpg" alt="">
+                  <img src="/shoes/images/qplsort/5.jpg" alt="">
+                </li>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="women-shoes">
+                <li action-type='goto.detail'>
+                  <img src="/shoes/images/qplsort/5.jpg" alt="">
+                  <img src="/shoes/images/qplsort/6.jpg" alt="">
+                  <img src="/shoes/images/qplsort/7.jpg" alt="">
+                  <img src="/shoes/images/qplsort/8.jpg" alt="">
+                  <!-- <img src="/shoes/images/qplsort/6.jpg" alt=""> -->
+                </li>
+              </div>
+
+            </div>
+            <div class="swiper-slide">
+              <div class="women-shoes">
+                <li action-type='goto.detail'>
+                  <img src="/shoes/images/qplsort/9.jpg" alt="" >
+                  <img src="/shoes/images/qplsort/10.jpg" alt="">
+                  <img src="/shoes/images/qplsort/11.jpg" alt="">
+                  <img src="/shoes/images/qplsort/6.jpg" alt="">
+                  <!-- <img src="/shoes/images/qplsort/5.jpg" alt=""> -->
+                </li>
+
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="women-shoes">
+                <li action-type='goto.detail'>
+                  <img src="/shoes/images/qplsort/12.jpg" alt="">
+                  <img src="/shoes/images/qplsort/13.jpg" alt="">
+                  <img src="/shoes/images/qplsort/14.jpg" alt="">
+                  <img src="/shoes/images/qplsort/15.jpg" alt="">
+
+                </li>
+                <li action-type='goto.detail'>
+                  <img src="/shoes/images/qplsort/17.jpg" alt="">
+                  <img src="/shoes/images/qplsort/18.jpg" alt="">
+                  <img src="/shoes/images/qplsort/19.jpg" alt="">
+                  <img src="/shoes/images/qplsort/20.jpg" alt="">
+                </li>
+                <li action-type='goto.detail'>
+                    <img src="/shoes/images/qplsort/16.jpg" alt="">
+                    <img src="/shoes/images/qplsort/3.jpg" alt="">
+                    <img src="/shoes/images/qplsort/5.jpg" alt="">
+                    <img src="/shoes/images/qplsort/8.jpg" alt="">
+                </li>
+              </div>
+            </div>
+        </div>
+    </div>
+
+  </section>
+</div>

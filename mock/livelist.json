@@ -1,0 +1,201 @@
+[{
+	"id": 2811,
+	"imageUrl": "http://s3.10zu.com/70589baf749808789876c465e89f7790.jpg",
+	"name": "真皮休闲懒人鞋",
+	"originalPrice": 145.00,
+	"price": 138.00,
+	"productNo": "2811v1",
+	"pv": 4,
+	"region": "广东",
+	"saleNum": 0,
+	"shop": {
+		"address": "深圳市福田区新洲十一街中央西谷1105",
+		"agented": false,
+		"id": 129,
+		"logoUrl": "s3:c66e312357f45098f8203c99c9719d88.jpg",
+		"merchantId": 1,
+		"name": "tingshuo",
+		"region": "CN440304",
+		"shopTotalPrice": 0
+	}
+}, {
+	"id": 2899,
+	"imageUrl": "http://s3.10zu.com/3709d44aa9ac5da640be9af0c22c7b49.jpg",
+	"name": "韩版时尚男士透气编制格子一脚蹬",
+	"originalPrice": 143.00,
+	"price": 136.00,
+	"productNo": "2899v1",
+	"pv": 3,
+	"region": "北京",
+	"saleNum": 0,
+	"shop": {
+		"address": "深圳市福田区新洲十一街中央西谷1105",
+		"agented": false,
+		"id": 131,
+		"logoUrl": "s3:b58efd521537e547eb52b064d7eb3cd8.jpg",
+		"merchantId": 1,
+		"name": "卡邦",
+		"region": "CN440304",
+		"shopTotalPrice": 0
+	}
+}, {
+	"id": 2901,
+	"imageUrl": "http://s3.10zu.com/2bf878098f082a7b7e122ac7a8580527.jpg",
+	"name": "新款时尚休闲青年套脚板鞋",
+	"originalPrice": 170.00,
+	"price": 162.00,
+	"productNo": "2901v1",
+	"pv": 3,
+	"region": "山东",
+	"saleNum": 0,
+	"shop": {
+		"address": "深圳市福田区新洲十一街中央西谷1105",
+		"agented": false,
+		"id": 131,
+		"logoUrl": "s3:b58efd521537e547eb52b064d7eb3cd8.jpg",
+		"merchantId": 1,
+		"name": "卡邦",
+		"region": "CN440304",
+		"shopTotalPrice": 0
+	}
+}, {
+	"id": 2902,
+	"imageUrl": "http://s3.10zu.com/c4324d02f15036a8c12470b32a2d2c43.jpg",
+	"name": "新款男士系带皮鞋英伦风个性圆头男鞋",
+	"originalPrice": 170.00,
+	"price": 162.00,
+	"productNo": "2902v1",
+	"pv": 3,
+	"region": "北京",
+	"saleNum": 0,
+	"shop": {
+		"address": "深圳市福田区新洲十一街中央西谷1105",
+		"agented": false,
+		"id": 131,
+		"logoUrl": "s3:b58efd521537e547eb52b064d7eb3cd8.jpg",
+		"merchantId": 1,
+		"name": "卡邦",
+		"region": "CN440304",
+		"shopTotalPrice": 0
+	}
+}, {
+	"id": 2904,
+	"imageUrl": "http://s3.10zu.com/e994b39e7cbbdf9433af107714bf1a40.jpg",
+	"name": "时尚潮流圆头系带低帮休闲小白鞋鞋",
+	"originalPrice": 177.00,
+	"price": 168.00,
+	"productNo": "2904v1",
+	"pv": 3,
+	"region": "天津",
+	"saleNum": 0,
+	"shop": {
+		"address": "深圳市福田区新洲十一街中央西谷1105",
+		"agented": false,
+		"id": 131,
+		"logoUrl": "s3:b58efd521537e547eb52b064d7eb3cd8.jpg",
+		"merchantId": 1,
+		"name": "卡邦",
+		"region": "CN440304",
+		"shopTotalPrice": 0
+	}
+}, {
+	"id": 2913,
+	"imageUrl": "http://s3.10zu.com/63955499537cf52b7aeb5eacd07aa025.jpg",
+	"name": "休闲一脚蹬",
+	"originalPrice": 113.00,
+	"price": 108.00,
+	"productNo": "2913v1",
+	"pv": 3,
+	"region": "广东",
+	"saleNum": 0,
+	"shop": {
+		"address": "深圳市福田区新洲十一街中央西谷1105",
+		"agented": false,
+		"id": 132,
+		"logoUrl": "s3:421a2f39b7178661d1f7f9642d6e83c4.jpg",
+		"merchantId": 1,
+		"name": "カバ",
+		"region": "CN440304",
+		"shopTotalPrice": 0
+	}
+}, {
+	"id": 2914,
+	"imageUrl": "http://s3.10zu.com/078764ac44142261f65e0123362e9b6a.jpg",
+	"name": "七彩潮鞋",
+	"originalPrice": 144.00,
+	"price": 137.00,
+	"productNo": "2914v1",
+	"pv": 3,
+	"region": "广东",
+	"saleNum": 0,
+	"shop": {
+		"address": "深圳市福田区新洲十一街中央西谷1105",
+		"agented": false,
+		"id": 132,
+		"logoUrl": "s3:421a2f39b7178661d1f7f9642d6e83c4.jpg",
+		"merchantId": 1,
+		"name": "カバ",
+		"region": "CN440304",
+		"shopTotalPrice": 0
+	}
+}, {
+	"id": 2916,
+	"imageUrl": "http://s3.10zu.com/caf3881c5bd2ea9ad777235a52153b4b.jpg",
+	"name": "日系字母休闲鞋",
+	"originalPrice": 144.00,
+	"price": 137.00,
+	"productNo": "2916v1",
+	"pv": 3,
+	"region": "广东",
+	"saleNum": 0,
+	"shop": {
+		"address": "深圳市福田区新洲十一街中央西谷1105",
+		"agented": false,
+		"id": 132,
+		"logoUrl": "s3:421a2f39b7178661d1f7f9642d6e83c4.jpg",
+		"merchantId": 1,
+		"name": "カバ",
+		"region": "CN440304",
+		"shopTotalPrice": 0
+	}
+}, {
+	"id": 2917,
+	"imageUrl": "http://s3.10zu.com/7019d27381ec2959d332b79ee6baeab2.jpg",
+	"name": "镜面休闲潮鞋",
+	"originalPrice": 117.00,
+	"price": 111.00,
+	"productNo": "2917v1",
+	"pv": 3,
+	"region": "广东",
+	"saleNum": 0,
+	"shop": {
+		"address": "深圳市福田区新洲十一街中央西谷1105",
+		"agented": false,
+		"id": 132,
+		"logoUrl": "s3:421a2f39b7178661d1f7f9642d6e83c4.jpg",
+		"merchantId": 1,
+		"name": "カバ",
+		"region": "CN440304",
+		"shopTotalPrice": 0
+	}
+}, {
+	"id": 2918,
+	"imageUrl": "http://s3.10zu.com/7c16843929dc49b3f7d16768a085a009.jpg",
+	"name": "网面休闲松糕鞋",
+	"originalPrice": 117.00,
+	"price": 111.00,
+	"productNo": "2918v1",
+	"pv": 3,
+	"region": "广东",
+	"saleNum": 0,
+	"shop": {
+		"address": "深圳市福田区新洲十一街中央西谷1105",
+		"agented": false,
+		"id": 132,
+		"logoUrl": "s3:421a2f39b7178661d1f7f9642d6e83c4.jpg",
+		"merchantId": 1,
+		"name": "カバ",
+		"region": "CN440304",
+		"shopTotalPrice": 0
+	}
+}]

@@ -1,0 +1,48 @@
+<div class='m-my'>
+	<header>
+	<i class='yo-ico'>&#xe636;</i>
+	</header>
+	<div class='box' spa-widget='scroll'>
+	<div>
+
+	<div class='pic'>
+		<div class='picBox'></div>
+		<p class='loginOr'>点击登录 / 注册</p>
+	</div>
+	<nav>
+		<div class='nav'>
+			<p class='allOrder'>查看全部订单<i class='order yo-ico'>&#xe612;</i></p>
+			<div class='fourStep'>
+				<ul>
+					<li class='yo-ico'>&#xe619;</li>
+					<li>待付款</li>
+				</ul>
+				<ul>
+					<li class='yo-ico'>&#xe629;</li>
+					<li>待发货</li>
+				</ul>
+				<ul>
+					<li class='yo-ico'>&#xe600;</li>
+					<li>待收货</li>
+				</ul>
+				<ul>
+					<li class='yo-ico'>&#xe602;</li>
+					<li>待评价</li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+	<section>
+		<ul>
+			<li><i class='left yo-ico'>&#xe605;</i>代言优惠<b>已节省<span>￥0.00</span></b></li>
+			<li><i class='left yo-ico'>&#xe633;</i>代言助手<i class='right yo-ico'>&#xe612;</i></li>
+			<li><i class='left yo-ico'>&#xe818;</i>我的足迹<i class='right yo-ico'>&#xe612;</i></li>
+			<li><i class='left yo-ico'>&#xe657;</i>我的关注<i class='right yo-ico'>&#xe612;</i></li>
+			<li><i class='left yo-ico'>&#xe690;</i>收货地址<i class='right yo-ico'>&#xe612;</i></li>
+		</ul>
+	</section>
+
+	<footer></footer>
+	</div>
+	</div>
+</div>
